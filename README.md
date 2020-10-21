@@ -1,1 +1,1 @@
-# node.js-course-vm-app-2-todo-list-GraphQL
+# node.js-vladilen-course-app2-todo-list
