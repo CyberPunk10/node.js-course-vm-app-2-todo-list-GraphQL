@@ -20,6 +20,8 @@
   "homepage": "https://github.com/CyberPunk10/nodejs-vladilen-course-app2-todo-list#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0",
     "mysql2": "^2.2.5",
     "sequelize": "^6.3.5"
   },
